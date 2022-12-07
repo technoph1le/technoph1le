@@ -4,7 +4,7 @@
 
 I am a Front-End Developer 💻, Designer 🎨 and Avid Reader 📖
 
-- 🔭 I’m currently working on projects and blogging
+- 🔭 I’m currently working on projects and blogging 👨‍💻
 - 🌱 I’m currently learning everything 🤣
 - 📫 How to reach me: @any/dostonnabotov
 - ⚡ Fun fact: I 💙 reading 📚
