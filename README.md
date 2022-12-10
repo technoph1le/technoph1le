@@ -13,11 +13,11 @@ I am a Front-End Developer 💻, Designer 🎨 and Avid Reader 📖
 
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The CSS `accent-color` property explained](https://dev.to/dostonnabotov/the-css-accent-color-property-explained-4h9o)
 - [The PowerShell `CRUD` operations explained](https://dev.to/dostonnabotov/the-powershell-crud-operations-explained-1kn9)
 - [The JavaScript `Array.push&lpar;&rpar;` method explained](https://dev.to/dostonnabotov/the-javascript-arraypush-method-explained-5d4m)
 - [The HTML &lt;picture&gt; element explained](https://dev.to/dostonnabotov/the-html-element-explained-48o8)
 - [How to write Mathematical Expressions in DEV.to Articles?](https://dev.to/dostonnabotov/how-to-write-mathematical-expressions-in-devto-articles-4k97)
-- [A Modern Sass Folder Structure](https://dev.to/dostonnabotov/a-modern-sass-folder-structure-330f)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
