@@ -1,5 +1,8 @@
 <h1 align="center">Hey, there 👋</h1>
 
+[Presentation Link](https://www.canva.com/design/DAFUF6kw7ZI/QbepLlwbK1Lqq0BCAibiug/view?utm_content=DAFUF6kw7ZI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Prototype](https://www.figma.com/proto/zF24I30zz3GxnjP02NP0Su/Cinema-Project?node-id=2%3A8&scaling=min-zoom&page-id=0%3A1)
+
 ## 👨‍💻 About Me
 
 I am a Front-End Developer 💻, Designer 🎨 and Avid Reader 📖
