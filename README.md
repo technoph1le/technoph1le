@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Front-End Developer 💻, Designer 🎨 and Avid Reader 📖
+I am a Front-End Developer 💻, Tech Blogger ✍ and Avid Reader 📖
 
 - 🔭 I’m currently working on projects and blogging 👨‍💻
 - 🌱 I’m currently learning everything 🤣
