@@ -40,7 +40,7 @@ I am a Front-End Developer 💻, Tech Blogger ✍ and Avid Reader 📖
 
 <br />
 
-## 📫 Connect With Me
+## 📫 Connect with me
 
 [![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dostonnabotov)
 [![LinkedIn](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dostonnabotov)
