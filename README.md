@@ -13,6 +13,11 @@
 
 <br />
 
+[![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dostonnabotov)
+[![LinkedIn](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dostonnabotov)
+[![DEV.TO](https://img.shields.io/badge/DEV.TO-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dostonnabotov)
+[![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dostonnabotov)
+
 ## ✍ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [The JavaScript `String.trim&lpar;&rpar;` method explained](https://dev.to/dostonnabotov/the-javascript-stringtrim-method-explained-4b61)
@@ -42,12 +47,10 @@
 
 <br />
 
-## 📫 Connect with me
+## ⚡ Recent Activity
 
-[![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dostonnabotov)
-[![LinkedIn](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dostonnabotov)
-[![DEV.TO](https://img.shields.io/badge/DEV.TO-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dostonnabotov)
-[![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dostonnabotov)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br />
 
