@@ -50,11 +50,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2089](https://github.com/microsoft/rnx-kit/issues/2089) in [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit)
-2. 💪 Opened PR [#2091](https://github.com/microsoft/rnx-kit/pull/2091) in [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit)
-3. 🗣 Commented on [#2090](https://github.com/microsoft/rnx-kit/issues/2090) in [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit)
-4. ❗️ Opened issue [#2090](https://github.com/microsoft/rnx-kit/issues/2090) in [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit)
-5. 🗣 Commented on [#2089](https://github.com/microsoft/rnx-kit/issues/2089) in [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit)
+1. 💪 Opened PR [#2095](https://github.com/microsoft/rnx-kit/pull/2095) in [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit)
+2. 🗣 Commented on [#2089](https://github.com/microsoft/rnx-kit/issues/2089) in [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit)
+3. 💪 Opened PR [#2091](https://github.com/microsoft/rnx-kit/pull/2091) in [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit)
+4. 🗣 Commented on [#2090](https://github.com/microsoft/rnx-kit/issues/2090) in [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit)
+5. ❗️ Opened issue [#2090](https://github.com/microsoft/rnx-kit/issues/2090) in [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit)
 <!--END_SECTION:activity-->
 
 <br />
