@@ -62,3 +62,7 @@
 ## 🔥 My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dostonnabotov&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<br />
+
+[![Doston's GitHub stats](https://github-readme-stats.vercel.app/api?username=dostonnabotov)](https://github.com/anuraghazra/github-readme-stats)
