@@ -65,4 +65,4 @@
 
 <br />
 
-[![Doston's GitHub stats](https://github-readme-stats-oyrlj6gzx-dostonnabotov.vercel.app/api?username=dostonnabotov)](https://github.com/anuraghazra/github-readme-stats)
+[![Doston's GitHub stats](https://github-readme-stats-oyrlj6gzx-dostonnabotov.vercel.app/api?username=dostonnabotov&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
