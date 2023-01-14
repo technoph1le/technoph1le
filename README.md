@@ -65,5 +65,4 @@
 
 <br />
 
-<!-- TODO: deploy on own vercel instance - https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
-<!-- [![Doston's GitHub stats](https://github-readme-stats.vercel.app/api?username=dostonnabotov)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Doston's GitHub stats](https://github-readme-stats-oyrlj6gzx-dostonnabotov.vercel.app/api?username=dostonnabotov)](https://github.com/anuraghazra/github-readme-stats)
