@@ -61,8 +61,28 @@
 
 ## 🔥 My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dostonnabotov&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<picture>
+  <source 
+    srcset="http://github-readme-streak-stats.herokuapp.com?user=dostonnabotov&theme=dark&background=0d1117&border=30363d"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="http://github-readme-streak-stats.herokuapp.com?user=dostonnabotov&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=dostonnabotov&theme=default" />
+</picture>
 
 <br />
 
-[![Doston's GitHub stats](https://github-readme-stats-oyrlj6gzx-dostonnabotov.vercel.app/api?username=dostonnabotov&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source 
+    srcset="https://github-readme-stats-oyrlj6gzx-dostonnabotov.vercel.app/api?username=dostonnabotov&show_icons=true&theme=transparent&border_color=30363d&text_color=ecf3ff"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-oyrlj6gzx-dostonnabotov.vercel.app/api?username=dostonnabotov&show_icons=true&theme=transparent"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-oyrlj6gzx-dostonnabotov.vercel.app/api?username=dostonnabotov&show_icons=true&theme=transparent" />
+</picture>
