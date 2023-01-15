@@ -51,10 +51,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#657](https://github.com/freeCodeCamp/Developer_Quiz_Site/issues/657) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
-2. 🗣 Commented on [#22692](https://github.com/github/docs/issues/22692) in [github/docs](https://github.com/github/docs)
-3. 💪 Opened PR [#2095](https://github.com/microsoft/rnx-kit/pull/2095) in [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit)
-4. 🗣 Commented on [#2089](https://github.com/microsoft/rnx-kit/issues/2089) in [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit)
-5. 💪 Opened PR [#2091](https://github.com/microsoft/rnx-kit/pull/2091) in [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit)
+2. 🗣 Commented on [#657](https://github.com/freeCodeCamp/Developer_Quiz_Site/issues/657) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+3. 🗣 Commented on [#22692](https://github.com/github/docs/issues/22692) in [github/docs](https://github.com/github/docs)
+4. 💪 Opened PR [#2095](https://github.com/microsoft/rnx-kit/pull/2095) in [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit)
+5. 🗣 Commented on [#2089](https://github.com/microsoft/rnx-kit/issues/2089) in [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit)
 <!--END_SECTION:activity-->
 
 <br />
