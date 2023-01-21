@@ -50,11 +50,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dostonnabotov/projects/pull/1) in [dostonnabotov/projects](https://github.com/dostonnabotov/projects)
-2. 💪 Opened PR [#1](https://github.com/dostonnabotov/projects/pull/1) in [dostonnabotov/projects](https://github.com/dostonnabotov/projects)
-3. 🗣 Commented on [#657](https://github.com/freeCodeCamp/Developer_Quiz_Site/issues/657) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
-4. 🗣 Commented on [#657](https://github.com/freeCodeCamp/Developer_Quiz_Site/issues/657) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
-5. 🗣 Commented on [#22692](https://github.com/github/docs/issues/22692) in [github/docs](https://github.com/github/docs)
+1. ❗️ Opened issue [#1](https://github.com/dostonnabotov/direct-measurements-calculator/issues/1) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+2. ❗️ Opened issue [#1](https://github.com/dostonnabotov/dostonnabotov/issues/1) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
+3. 🎉 Merged PR [#1](https://github.com/dostonnabotov/projects/pull/1) in [dostonnabotov/projects](https://github.com/dostonnabotov/projects)
+4. 💪 Opened PR [#1](https://github.com/dostonnabotov/projects/pull/1) in [dostonnabotov/projects](https://github.com/dostonnabotov/projects)
+5. 🗣 Commented on [#657](https://github.com/freeCodeCamp/Developer_Quiz_Site/issues/657) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
 <!--END_SECTION:activity-->
 
 <br />
