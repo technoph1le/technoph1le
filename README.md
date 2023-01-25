@@ -59,11 +59,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/dostonnabotov/direct-measurements-calculator/issues/1) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
-2. ❗️ Opened issue [#1](https://github.com/dostonnabotov/dostonnabotov/issues/1) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
-3. 🎉 Merged PR [#1](https://github.com/dostonnabotov/projects/pull/1) in [dostonnabotov/projects](https://github.com/dostonnabotov/projects)
-4. 💪 Opened PR [#1](https://github.com/dostonnabotov/projects/pull/1) in [dostonnabotov/projects](https://github.com/dostonnabotov/projects)
-5. 🗣 Commented on [#657](https://github.com/freeCodeCamp/Developer_Quiz_Site/issues/657) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+1. ❗️ Opened issue [#2](https://github.com/dostonnabotov/dostonnabotov/issues/2) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
+2. ❗️ Closed issue [#1](https://github.com/dostonnabotov/dostonnabotov/issues/1) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
+3. ❗️ Opened issue [#1638](https://github.com/devicons/devicon/issues/1638) in [devicons/devicon](https://github.com/devicons/devicon)
+4. ❗️ Opened issue [#1](https://github.com/dostonnabotov/direct-measurements-calculator/issues/1) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+5. ❗️ Opened issue [#1](https://github.com/dostonnabotov/dostonnabotov/issues/1) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
 <!--END_SECTION:activity-->
 
 <br />
