@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on projects and blogging 👨‍💻
 - 🌱 I’m currently learning everything 🤣
 - 📫 How to reach me: @any/dostonnabotov
-- ⚡ Fun fact: I 💙 reading 📚
+- ⚡ Fun fact: Loves to get lost in a good book 📚
 
 <br />
 
