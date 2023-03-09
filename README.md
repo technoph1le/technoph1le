@@ -59,11 +59,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/dostonnabotov/direct-measurements-calculator/pull/3) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
-2. 🎉 Merged PR [#2](https://github.com/dostonnabotov/direct-measurements-calculator/pull/2) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
-3. 💪 Opened PR [#2](https://github.com/dostonnabotov/direct-measurements-calculator/pull/2) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
-4. ❗️ Opened issue [#2](https://github.com/dostonnabotov/dostonnabotov/issues/2) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
-5. ❗️ Closed issue [#1](https://github.com/dostonnabotov/dostonnabotov/issues/1) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
+1. 🎉 Merged PR [#3](https://github.com/dostonnabotov/direct-measurements-calculator/pull/3) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+2. 💪 Opened PR [#3](https://github.com/dostonnabotov/direct-measurements-calculator/pull/3) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+3. 🎉 Merged PR [#2](https://github.com/dostonnabotov/direct-measurements-calculator/pull/2) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+4. 💪 Opened PR [#2](https://github.com/dostonnabotov/direct-measurements-calculator/pull/2) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+5. ❗️ Opened issue [#2](https://github.com/dostonnabotov/dostonnabotov/issues/2) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
 <!--END_SECTION:activity-->
 
 <br />
