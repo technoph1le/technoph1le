@@ -86,12 +86,12 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats-oyrlj6gzx-dostonnabotov.vercel.app/api?username=dostonnabotov&show_icons=true&theme=transparent&border_color=30363d&text_color=ecf3ff"
+    srcset="https://github-readme-stats-dostonnabotov.vercel.app/api?username=dostonnabotov&show_icons=true&theme=transparent&border_color=30363d&text_color=ecf3ff"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-oyrlj6gzx-dostonnabotov.vercel.app/api?username=dostonnabotov&show_icons=true&theme=transparent"
+    srcset="https://github-readme-stats-dostonnabotov.vercel.app/api?username=dostonnabotov&show_icons=true&theme=transparent"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-oyrlj6gzx-dostonnabotov.vercel.app/api?username=dostonnabotov&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats-dostonnabotov.vercel.app/api?username=dostonnabotov&show_icons=true&theme=transparent" />
 </picture>
