@@ -59,11 +59,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25030](https://github.com/github/docs/pull/25030) in [github/docs](https://github.com/github/docs)
-2. 🗣 Commented on [#25000](https://github.com/github/docs/issues/25000) in [github/docs](https://github.com/github/docs)
-3. 🎉 Merged PR [#3](https://github.com/dostonnabotov/direct-measurements-calculator/pull/3) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
-4. 💪 Opened PR [#3](https://github.com/dostonnabotov/direct-measurements-calculator/pull/3) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
-5. 🎉 Merged PR [#2](https://github.com/dostonnabotov/direct-measurements-calculator/pull/2) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+1. ❗️ Opened issue [#26233](https://github.com/mdn/content/issues/26233) in [mdn/content](https://github.com/mdn/content)
+2. 💪 Opened PR [#25030](https://github.com/github/docs/pull/25030) in [github/docs](https://github.com/github/docs)
+3. 🗣 Commented on [#25000](https://github.com/github/docs/issues/25000) in [github/docs](https://github.com/github/docs)
+4. 🎉 Merged PR [#3](https://github.com/dostonnabotov/direct-measurements-calculator/pull/3) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+5. 💪 Opened PR [#3](https://github.com/dostonnabotov/direct-measurements-calculator/pull/3) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
 <!--END_SECTION:activity-->
 
 <br />
