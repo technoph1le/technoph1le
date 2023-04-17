@@ -19,7 +19,9 @@
 [![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dostonnabotov)
 
 ## ✍ Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [10 Helpful JavaScript Utility Functions](https://dev.to/dostonnabotov/10-helpful-javascript-utility-functions-35oc)
 - [The JavaScript `String.trim&lpar;&rpar;` method explained](https://dev.to/dostonnabotov/the-javascript-stringtrim-method-explained-4b61)
 - [Ultimate Tools for Developers 🛠](https://dev.to/dostonnabotov/ultimate-tools-for-developers-2aj2)
@@ -59,6 +61,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#8646](https://github.com/mdn/yari/issues/8646) in [mdn/yari](https://github.com/mdn/yari)
 2. ❗️ Opened issue [#26233](https://github.com/mdn/content/issues/26233) in [mdn/content](https://github.com/mdn/content)
 3. 💪 Opened PR [#25030](https://github.com/github/docs/pull/25030) in [github/docs](https://github.com/github/docs)
