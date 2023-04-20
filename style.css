@@ -45,6 +45,9 @@ body {
 
   position: relative;
   background-color: var(--clr-neutral-900);
+
+  /* for spacing on small devices */
+  padding-block: 4rem;
 }
 
 body::before {
@@ -119,6 +122,17 @@ ol[role="list"] {
   background-color: var(--clr-neutral-800);
 }
 
+.background-title {
+  position: absolute;
+  top: 0.2em;
+  left: 0.2em;
+  font-size: clamp(2rem, 10vw, 12rem);
+  color: hsl(0, 0%, 100%, 0.1);
+  z-index: -1;
+  font-family: var(--ff-secondary);
+  font-weight: var(--fw-bold);
+}
+
 .card {
   width: min(100% - 2rem, 42rem);
 
@@ -129,7 +143,7 @@ ol[role="list"] {
     "header image"
     "meta  image"
     "content content";
-  padding: clamp(2rem, 8vw, 2.5rem);
+  padding: clamp(1.5rem, 5vw, 2.5rem);
 
   background-color: var(--clr-neutral-100);
   color: var(--clr-neutral-900);
