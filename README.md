@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Doston 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://dostonnabotov.netlify.app">Doston</a> 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=31ABE1&center=true&width=435&lines=Frontend+Developer+;Tech+Blogger+;Avid+Science+Reader+;and+Passionate+Learner!;Nice+to+meet+you..." alt="Typing SVG" /></a>
@@ -21,7 +21,6 @@
 ## ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [10 Helpful JavaScript Utility Functions](https://dev.to/dostonnabotov/10-helpful-javascript-utility-functions-35oc)
 - [The JavaScript `String.trim&lpar;&rpar;` method explained](https://dev.to/dostonnabotov/the-javascript-stringtrim-method-explained-4b61)
 - [Ultimate Tools for Developers 🛠](https://dev.to/dostonnabotov/ultimate-tools-for-developers-2aj2)
@@ -62,11 +61,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8646](https://github.com/mdn/yari/issues/8646) in [mdn/yari](https://github.com/mdn/yari)
-2. ❗️ Opened issue [#26233](https://github.com/mdn/content/issues/26233) in [mdn/content](https://github.com/mdn/content)
-3. 💪 Opened PR [#25030](https://github.com/github/docs/pull/25030) in [github/docs](https://github.com/github/docs)
-4. 🗣 Commented on [#25000](https://github.com/github/docs/issues/25000) in [github/docs](https://github.com/github/docs)
-5. 🎉 Merged PR [#3](https://github.com/dostonnabotov/direct-measurements-calculator/pull/3) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+1. 🗣 Commented on [#26254](https://github.com/mdn/content/issues/26254) in [mdn/content](https://github.com/mdn/content)
+2. 🗣 Commented on [#8646](https://github.com/mdn/yari/issues/8646) in [mdn/yari](https://github.com/mdn/yari)
+3. ❗️ Opened issue [#26233](https://github.com/mdn/content/issues/26233) in [mdn/content](https://github.com/mdn/content)
+4. 💪 Opened PR [#25030](https://github.com/github/docs/pull/25030) in [github/docs](https://github.com/github/docs)
+5. 🗣 Commented on [#25000](https://github.com/github/docs/issues/25000) in [github/docs](https://github.com/github/docs)
 <!--END_SECTION:activity-->
 
 <br />
