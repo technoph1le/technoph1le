@@ -18,8 +18,8 @@
   --ff-primary: "Source Sans Pro", sans-serif;
   --ff-secondary: "Noto Serif", serif;
 
-  --fw-bold: 700;
   --fw-regular: 400;
+  --fw-bold: 700;
 
   --fs-400: 1.125rem;
 }
@@ -77,6 +77,13 @@ a:is(:hover, :focus) {
   text-decoration: none;
 }
 
+svg {
+  height: var(--svg-size, 2ex);
+  width: auto;
+  flex: none;
+  fill: currentColor;
+}
+
 ul[role="list"],
 ol[role="list"] {
   margin: 0;
@@ -97,24 +104,19 @@ ol[role="list"] {
   gap: 0.5em;
 
   width: fit-content;
-  text-decoration: none;
-
   padding: 0.5em 1em;
+
+  font-family: var(--ff-secondary);
   font-weight: var(--fw-bold);
   letter-spacing: 0.05em;
+  text-decoration: none;
+
   background-color: var(--clr-neutral-900);
   color: var(--clr-neutral-100);
   border-radius: 0.2em;
+
   transition: 300ms ease;
   transition-property: box-shadow, background-color;
-  font-family: var(--ff-secondary);
-}
-
-.button svg {
-  height: 2ex;
-  width: auto;
-  flex: none;
-  fill: currentColor;
 }
 
 .button:is(:hover, :focus-visible) {
