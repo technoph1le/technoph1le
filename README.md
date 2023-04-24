@@ -21,7 +21,6 @@
 ## ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [10 Helpful JavaScript Utility Functions](https://dev.to/dostonnabotov/10-helpful-javascript-utility-functions-35oc)
 - [The JavaScript `String.trim&lpar;&rpar;` method explained](https://dev.to/dostonnabotov/the-javascript-stringtrim-method-explained-4b61)
 - [Ultimate Tools for Developers 🛠](https://dev.to/dostonnabotov/ultimate-tools-for-developers-2aj2)
