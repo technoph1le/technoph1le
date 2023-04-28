@@ -61,11 +61,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#26254](https://github.com/mdn/content/issues/26254) in [mdn/content](https://github.com/mdn/content)
-2. 🗣 Commented on [#8646](https://github.com/mdn/yari/issues/8646) in [mdn/yari](https://github.com/mdn/yari)
-3. ❗️ Opened issue [#26233](https://github.com/mdn/content/issues/26233) in [mdn/content](https://github.com/mdn/content)
-4. 💪 Opened PR [#25030](https://github.com/github/docs/pull/25030) in [github/docs](https://github.com/github/docs)
-5. 🗣 Commented on [#25000](https://github.com/github/docs/issues/25000) in [github/docs](https://github.com/github/docs)
+1. ❗️ Opened issue [#5](https://github.com/dostonnabotov/direct-measurements-calculator/issues/5) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+2. ❗️ Closed issue [#1](https://github.com/dostonnabotov/direct-measurements-calculator/issues/1) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+3. 🎉 Merged PR [#4](https://github.com/dostonnabotov/direct-measurements-calculator/pull/4) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+4. 💪 Opened PR [#4](https://github.com/dostonnabotov/direct-measurements-calculator/pull/4) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+5. 🗣 Commented on [#26254](https://github.com/mdn/content/issues/26254) in [mdn/content](https://github.com/mdn/content)
 <!--END_SECTION:activity-->
 
 <br />
