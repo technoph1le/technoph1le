@@ -63,8 +63,8 @@
 
 1. 🗣 Commented on [#3](https://github.com/dostonnabotov/introduction-to-algorithms/issues/3) in [dostonnabotov/introduction-to-algorithms](https://github.com/dostonnabotov/introduction-to-algorithms)
 2. ❌ Closed PR [#2](https://github.com/dostonnabotov/introduction-to-algorithms/pull/2) in [dostonnabotov/introduction-to-algorithms](https://github.com/dostonnabotov/introduction-to-algorithms)
-3. ❗️ Opened issue [#5](https://github.com/dostonnabotov/direct-measurements-calculator/issues/5) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
-4. ❗️ Closed issue [#1](https://github.com/dostonnabotov/direct-measurements-calculator/issues/1) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+3. ❗ Opened issue [#5](https://github.com/dostonnabotov/direct-measurements-calculator/issues/5) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+4. 🔒 Closed issue [#1](https://github.com/dostonnabotov/direct-measurements-calculator/issues/1) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
 5. 🎉 Merged PR [#4](https://github.com/dostonnabotov/direct-measurements-calculator/pull/4) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
 <!--END_SECTION:activity-->
 
