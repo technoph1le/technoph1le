@@ -21,11 +21,11 @@
 ## ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Published my first YouTube video 🔥](https://dev.to/dostonnabotov/published-my-first-youtube-video-2a5i)
 - [10 Helpful JavaScript Utility Functions](https://dev.to/dostonnabotov/10-helpful-javascript-utility-functions-35oc)
 - [The JavaScript `String.trim&lpar;&rpar;` method explained](https://dev.to/dostonnabotov/the-javascript-stringtrim-method-explained-4b61)
 - [Ultimate Tools for Developers 🛠](https://dev.to/dostonnabotov/ultimate-tools-for-developers-2aj2)
 - [The CSS `accent-color` property explained](https://dev.to/dostonnabotov/the-css-accent-color-property-explained-4h9o)
-- [The PowerShell `CRUD` operations explained](https://dev.to/dostonnabotov/the-powershell-crud-operations-explained-1kn9)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
