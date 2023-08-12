@@ -61,7 +61,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3](https://github.com/dostonnabotov/introduction-to-algorithms/issues/3#issuecomment-1531574462) in [dostonnabotov/introduction-to-algorithms](https://github.com/dostonnabotov/introduction-to-algorithms)
+1. ❗ Opened issue [#2587](https://github.com/mdn/interactive-examples/issues/2587) in [mdn/interactive-examples](https://github.com/mdn/interactive-examples)
 2. ❌ Closed PR [#2](https://github.com/dostonnabotov/introduction-to-algorithms/pull/2) in [dostonnabotov/introduction-to-algorithms](https://github.com/dostonnabotov/introduction-to-algorithms)
 3. ❗ Opened issue [#5](https://github.com/dostonnabotov/direct-measurements-calculator/issues/5) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
 4. 🔒 Closed issue [#1](https://github.com/dostonnabotov/direct-measurements-calculator/issues/1) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
