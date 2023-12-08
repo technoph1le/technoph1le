@@ -61,10 +61,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/dostonnabotov/sass-template/pull/1#issuecomment-1839055445) in [dostonnabotov/sass-template](https://github.com/dostonnabotov/sass-template)
-2. ❌ Closed PR [#2](https://github.com/dostonnabotov/introduction-to-algorithms/pull/2) in [dostonnabotov/introduction-to-algorithms](https://github.com/dostonnabotov/introduction-to-algorithms)
-3. ❗ Opened issue [#5](https://github.com/dostonnabotov/direct-measurements-calculator/issues/5) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
-4. 🔒 Closed issue [#1](https://github.com/dostonnabotov/direct-measurements-calculator/issues/1) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+1. 🗣 Commented on [#3](https://github.com/dostonnabotov/introduction-to-algorithms/issues/3#issuecomment-1845613617) in [dostonnabotov/introduction-to-algorithms](https://github.com/dostonnabotov/introduction-to-algorithms)
+2. 🔒 Closed issue [#3](https://github.com/dostonnabotov/introduction-to-algorithms/issues/3) in [dostonnabotov/introduction-to-algorithms](https://github.com/dostonnabotov/introduction-to-algorithms)
+3. ❌ Closed PR [#1](https://github.com/dostonnabotov/introduction-to-algorithms/pull/1) in [dostonnabotov/introduction-to-algorithms](https://github.com/dostonnabotov/introduction-to-algorithms)
+4. 🗣 Commented on [#1](https://github.com/dostonnabotov/sass-template/pull/1#issuecomment-1839055445) in [dostonnabotov/sass-template](https://github.com/dostonnabotov/sass-template)
 5. 🎉 Merged PR [#4](https://github.com/dostonnabotov/direct-measurements-calculator/pull/4) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
 <!--END_SECTION:activity-->
 
