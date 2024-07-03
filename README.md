@@ -6,10 +6,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on projects and blogging 👨‍💻
+- 🔭 I’m currently working on projects and mentoring 👨‍💻
 - 🌱 I’m currently learning everything 🤣
 - 📫 How to reach me: @any/dostonnabotov
-- ⚡ Fun fact: Loves to get lost in a good book 📚
+- ⚡ Fun fact: Loves typing and speed cubing ⌨
 
 <br />
 
