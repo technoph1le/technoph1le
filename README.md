@@ -74,11 +74,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3](https://github.com/dostonnabotov/introduction-to-algorithms/issues/3#issuecomment-1845613617) in [dostonnabotov/introduction-to-algorithms](https://github.com/dostonnabotov/introduction-to-algorithms)
-2. 🔒 Closed issue [#3](https://github.com/dostonnabotov/introduction-to-algorithms/issues/3) in [dostonnabotov/introduction-to-algorithms](https://github.com/dostonnabotov/introduction-to-algorithms)
-3. ❌ Closed PR [#1](https://github.com/dostonnabotov/introduction-to-algorithms/pull/1) in [dostonnabotov/introduction-to-algorithms](https://github.com/dostonnabotov/introduction-to-algorithms)
-4. 🗣 Commented on [#1](https://github.com/dostonnabotov/sass-template/pull/1#issuecomment-1839055445) in [dostonnabotov/sass-template](https://github.com/dostonnabotov/sass-template)
-5. 🎉 Merged PR [#4](https://github.com/dostonnabotov/direct-measurements-calculator/pull/4) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+1. 🗣 Commented on [#6](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/pull/6#issuecomment-2236596142) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
+2. 🎉 Merged PR [#6](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/pull/6) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
+3. 🗣 Commented on [#5](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/issues/5#issuecomment-2236583076) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
+4. 🎉 Merged PR [#4](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/pull/4) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
+5. 🗣 Commented on [#2](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/issues/2#issuecomment-2236557124) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
 <!--END_SECTION:activity-->
 
 <br />
