@@ -4,6 +4,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=31ABE1&center=true&width=435&lines=Frontend+Developer+;Tech+Blogger+;Avid+Science+Reader+;and+Passionate+Learner!;Nice+to+meet+you..." alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dostonnabotov&color=blue&abbreviated=true">
+</p>
+
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on projects and mentoring 👨‍💻
