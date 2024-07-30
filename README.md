@@ -78,11 +78,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#6](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/pull/6#issuecomment-2236596142) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
-2. 🎉 Merged PR [#6](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/pull/6) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
-3. 🗣 Commented on [#5](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/issues/5#issuecomment-2236583076) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
-4. 🎉 Merged PR [#4](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/pull/4) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
-5. 🗣 Commented on [#2](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/issues/2#issuecomment-2236557124) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
+1. 🗣 Commented on [#8](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/issues/8#issuecomment-2256011208) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
+2. 🔒 Closed issue [#8](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/issues/8) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
+3. 🗣 Commented on [#6](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/pull/6#issuecomment-2236596142) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
+4. 🎉 Merged PR [#6](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/pull/6) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
+5. 🗣 Commented on [#5](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/issues/5#issuecomment-2236583076) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
 <!--END_SECTION:activity-->
 
 <br />
