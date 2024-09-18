@@ -25,11 +25,11 @@
 ## ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Math equations^2 in DEV.to platform](https://dev.to/dostonnabotov/math-equations2-in-devto-platform-2io0)
 - [Clickable Button Effect using HTML &amp; CSS](https://dev.to/dostonnabotov/clickable-button-effect-using-html-css-2ggo)
 - [Build a Dynamic Bar Chart with JavaScript 📊](https://dev.to/dostonnabotov/build-a-dynamic-bar-chart-with-javascript-1e0c)
 - [Published my first YouTube video 🔥](https://dev.to/dostonnabotov/published-my-first-youtube-video-2a5i)
 - [10 Helpful JavaScript Utility Functions](https://dev.to/dostonnabotov/10-helpful-javascript-utility-functions-35oc)
-- [The JavaScript `String.trim&lpar;&rpar;` method explained](https://dev.to/dostonnabotov/the-javascript-stringtrim-method-explained-4b61)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
