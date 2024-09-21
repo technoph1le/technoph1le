@@ -78,11 +78,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.2.0](https://github.com/dostonnabotov/weather-scout/releases/tag/v1.2.0) in [dostonnabotov/weather-scout](https://github.com/dostonnabotov/weather-scout)
-2. 🚀 Published release [v1.1.1](https://github.com/dostonnabotov/weather-scout/releases/tag/v1.1.1) in [dostonnabotov/weather-scout](https://github.com/dostonnabotov/weather-scout)
-3. 🚀 Published release [v1.1.0](https://github.com/dostonnabotov/weather-scout/releases/tag/v1.1.0) in [dostonnabotov/weather-scout](https://github.com/dostonnabotov/weather-scout)
-4. 🚀 Published release [v1.0.0](https://github.com/dostonnabotov/weather-scout/releases/tag/v1.0.0) in [dostonnabotov/weather-scout](https://github.com/dostonnabotov/weather-scout)
-5. 🗣 Commented on [#7](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/issues/7#issuecomment-2257570287) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
+1. 🚀 Published release [v1.2.1](https://github.com/dostonnabotov/weather-scout/releases/tag/v1.2.1) in [dostonnabotov/weather-scout](https://github.com/dostonnabotov/weather-scout)
+2. 🚀 Published release [v1.2.0](https://github.com/dostonnabotov/weather-scout/releases/tag/v1.2.0) in [dostonnabotov/weather-scout](https://github.com/dostonnabotov/weather-scout)
+3. 🚀 Published release [v1.1.1](https://github.com/dostonnabotov/weather-scout/releases/tag/v1.1.1) in [dostonnabotov/weather-scout](https://github.com/dostonnabotov/weather-scout)
+4. 🚀 Published release [v1.1.0](https://github.com/dostonnabotov/weather-scout/releases/tag/v1.1.0) in [dostonnabotov/weather-scout](https://github.com/dostonnabotov/weather-scout)
+5. 🚀 Published release [v1.0.0](https://github.com/dostonnabotov/weather-scout/releases/tag/v1.0.0) in [dostonnabotov/weather-scout](https://github.com/dostonnabotov/weather-scout)
 <!--END_SECTION:activity-->
 
 <br />
