@@ -10,17 +10,17 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on projects and mentoring 👨‍💻
+- 🔭 I’m currently working on content creation 👨‍💻
 - 🌱 I’m currently learning everything 🤣
 - 📫 How to reach me: @any/dostonnabotov
 - ⚡ Fun fact: Loves typing and speed cubing ⌨
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dostonnabotov)
-[![LinkedIn](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dostonnabotov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dostonnabotov)
+[![Portfolio](https://img.shields.io/badge/Portfolio-030607?style=for-the-badge&logo=google&logoColor=white)](https://dostonnabotov.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Technoph1le)
 [![DEV.TO](https://img.shields.io/badge/DEV.TO-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dostonnabotov)
-[![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dostonnabotov)
 
 ## ✍ Latest Blog Posts
 
@@ -43,7 +43,6 @@
   <img title="CSS3" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img title="Sass" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img title="TailWind CSS" alt="TailWind CSS" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
-  <img title="Bootstrap" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" />
   <img title="JavaScript" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img title="React" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img title="TypeScript" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -54,10 +53,8 @@
 <div style="display: flex; align-items: center; gap: .75rem; flex-wrap: wrap">
   <img title="React" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img title="TypeScript" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img title="Node JS" alt="Node JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img title="PostgreSQL" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img title="Python" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img title="Java" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img title="NodeJS" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img title="NextJS" alt="NextJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </div>
 
 ### Tools
@@ -65,11 +62,7 @@
 <div style="display: flex; align-items: center; gap: .75rem; flex-wrap: wrap">
   <img title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img title="Figma" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img title="Git" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img title="GitHub" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-light-mode-only" />
-  <img title="Bash" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg#gh-light-mode-only" />
-  <img title="CodePen" alt="CodePen" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/codepen/codepen-original.svg#gh-light-mode-only" />
-  <img title="Markdown" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg#gh-light-mode-only" />
+  <img title="Linux" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
 <br />
