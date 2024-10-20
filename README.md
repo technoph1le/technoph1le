@@ -71,11 +71,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/dostonnabotov/dostonnabotov/issues/2#issuecomment-2401950904) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
-2. 🔒 Closed issue [#2](https://github.com/dostonnabotov/dostonnabotov/issues/2) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
-3. 🔒 Closed issue [#1](https://github.com/dostonnabotov/weather-scout/issues/1) in [dostonnabotov/weather-scout](https://github.com/dostonnabotov/weather-scout)
-4. 🚀 Published release [v1.5.0](https://github.com/dostonnabotov/weather-scout/releases/tag/v1.5.0) in [dostonnabotov/weather-scout](https://github.com/dostonnabotov/weather-scout)
-5. 🗣 Commented on [#1](https://github.com/dostonnabotov/weather-scout/issues/1#issuecomment-2371121881) in [dostonnabotov/weather-scout](https://github.com/dostonnabotov/weather-scout)
+1. 🚀 Published release [v1.0.0](https://github.com/dostonnabotov/easybank-next-gen/releases/tag/v1.0.0) in [dostonnabotov/easybank-next-gen](https://github.com/dostonnabotov/easybank-next-gen)
+2. 🗣 Commented on [#2](https://github.com/dostonnabotov/dostonnabotov/issues/2#issuecomment-2401950904) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
+3. 🔒 Closed issue [#2](https://github.com/dostonnabotov/dostonnabotov/issues/2) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
+4. 🔒 Closed issue [#1](https://github.com/dostonnabotov/weather-scout/issues/1) in [dostonnabotov/weather-scout](https://github.com/dostonnabotov/weather-scout)
+5. 🚀 Published release [v1.5.0](https://github.com/dostonnabotov/weather-scout/releases/tag/v1.5.0) in [dostonnabotov/weather-scout](https://github.com/dostonnabotov/weather-scout)
 <!--END_SECTION:activity-->
 
 <br />
