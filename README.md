@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm <a href="https://dostonnabotov.netlify.app">Doston</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://dostonnabotov.com">Doston</a> 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=31ABE1&center=true&width=435&lines=Frontend+Developer+;Tech+Blogger+;Avid+Science+Reader+;and+Passionate+Learner!;Nice+to+meet+you..." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=31ABE1&center=true&width=435&lines=Frontend+Developer+;UI/UX+Designer+;Content+Creator+;and+Passionate+Learner!;Nice+to+meet+you..." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
