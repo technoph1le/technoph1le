@@ -25,11 +25,11 @@
 ## ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 websites for frontend devs](https://dev.to/technoph1le/5-websites-for-frontend-devs-4ne0)
 - [How to Store API Keys Securely in a .env File](https://dev.to/technoph1le/how-to-store-api-keys-securely-in-a-env-file-32eo)
 - [Math equations^2 in DEV.to platform](https://dev.to/technoph1le/math-equations2-in-devto-platform-2io0)
 - [Clickable Button Effect using HTML &amp; CSS](https://dev.to/technoph1le/clickable-button-effect-using-html-css-2ggo)
 - [Build a Dynamic Bar Chart with JavaScript 📊](https://dev.to/technoph1le/build-a-dynamic-bar-chart-with-javascript-1e0c)
-- [Published my first YouTube video 🔥](https://dev.to/technoph1le/published-my-first-youtube-video-2a5i)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
