@@ -4,9 +4,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=31ABE1&center=true&width=435&lines=Frontend+Developer+;UI/UX+Designer+;Content+Creator+;and+Passionate+Learner!;Nice+to+meet+you..." alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dostonnabotov&color=blue&abbreviated=true">
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dostonnabotov&color=blue&abbreviated=true" alt="Profile views">
+</div>
 
 ## 👨‍💻 About Me
 
@@ -82,6 +82,7 @@
 
 ## 🔥 My Stats
 
+<div style="display: flex; flex-wrap: wrap;">
 <picture>
   <source 
     srcset="http://github-readme-streak-stats.herokuapp.com?user=dostonnabotov&theme=dark&background=0d1117&border=30363d"
@@ -94,8 +95,6 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=dostonnabotov&theme=default" />
 </picture>
 
-<br />
-
 <picture>
   <source 
     srcset="https://github-readme-stats-xi2d.vercel.app/api?username=dostonnabotov&show_icons=true&theme=transparent&border_color=30363d&text_color=ecf3ff"
@@ -107,3 +106,12 @@
   />
   <img src="https://github-readme-stats-xi2d.vercel.app/api?username=dostonnabotov&show_icons=true&theme=transparent" />
 </picture>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <p>Also, doing some LeetCode in free time</p>
+  <a href="https://leetcode.com/technoph1le/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftechnoph1le&logo=leetcode&logoColor=yellow" alt="LeetCode stats"></a>
+</div>
