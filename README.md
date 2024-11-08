@@ -25,11 +25,11 @@
 ## ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Methods of Solving UN-responsive Fonts &lpar;w/ CSS&rpar;](https://dev.to/technoph1le/3-methods-of-solving-un-responsive-fonts-w-css-414o)
 - [How to Fetch a JSON File with JavaScript &lpar;Promises vs. Async/Await&rpar;](https://dev.to/technoph1le/how-to-fetch-a-json-file-with-javascript-promises-vs-asyncawait-26bo)
 - [5 websites for frontend devs](https://dev.to/technoph1le/5-websites-for-frontend-devs-4ne0)
 - [How to Store API Keys Securely in a .env File](https://dev.to/technoph1le/how-to-store-api-keys-securely-in-a-env-file-32eo)
 - [Math equations^2 in DEV.to platform](https://dev.to/technoph1le/math-equations2-in-devto-platform-2io0)
-- [Clickable Button Effect using HTML &amp; CSS](https://dev.to/technoph1le/clickable-button-effect-using-html-css-2ggo)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
