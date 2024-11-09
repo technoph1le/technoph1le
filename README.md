@@ -71,11 +71,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.1.0](https://github.com/dostonnabotov/quicksnip/releases/tag/v0.1.0) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
-2. 🚀 Published release [v1.0.0](https://github.com/dostonnabotov/easybank-next-gen/releases/tag/v1.0.0) in [dostonnabotov/easybank-next-gen](https://github.com/dostonnabotov/easybank-next-gen)
-3. 🗣 Commented on [#2](https://github.com/dostonnabotov/dostonnabotov/issues/2#issuecomment-2401950904) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
-4. 🔒 Closed issue [#2](https://github.com/dostonnabotov/dostonnabotov/issues/2) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
-5. 🔒 Closed issue [#1](https://github.com/dostonnabotov/weather-scout/issues/1) in [dostonnabotov/weather-scout](https://github.com/dostonnabotov/weather-scout)
+1. 🚀 Published release [v0.2.0](https://github.com/dostonnabotov/quicksnip/releases/tag/v0.2.0) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
+2. 🚀 Published release [v0.1.0](https://github.com/dostonnabotov/quicksnip/releases/tag/v0.1.0) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
+3. 🚀 Published release [v1.0.0](https://github.com/dostonnabotov/easybank-next-gen/releases/tag/v1.0.0) in [dostonnabotov/easybank-next-gen](https://github.com/dostonnabotov/easybank-next-gen)
+4. 🗣 Commented on [#2](https://github.com/dostonnabotov/dostonnabotov/issues/2#issuecomment-2401950904) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
+5. 🔒 Closed issue [#2](https://github.com/dostonnabotov/dostonnabotov/issues/2) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
 <!--END_SECTION:activity-->
 
 <br />
