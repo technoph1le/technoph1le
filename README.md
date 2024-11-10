@@ -10,17 +10,21 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on content creation 👨‍💻
-- 🌱 I’m currently learning everything 🤣
-- 📫 How to reach me: @any/dostonnabotov
-- ⚡ Fun fact: Loves typing and speed cubing ⌨
+I'm a Frontend developer, developing websites people simply enjoy using. I'm also on [YouTube](https://www.youtube.com/@technoph1le), definitely worth checking out!
+
+### What I'm working on:
+
+#### [QuickSnip](https://quicksnip.netlify.app/) - A library of code snippets for developers
+#### [Weather Scout](https://t.me/WeatherScoutBot) - A weather bot for Telegram
 
 <br />
 
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dostonnabotov)
 [![Portfolio](https://img.shields.io/badge/Portfolio-030607?style=for-the-badge&logo=google&logoColor=white)](https://dostonnabotov.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Technoph1le)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@technoph1le)
 [![DEV.TO](https://img.shields.io/badge/DEV.TO-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dostonnabotov)
+-->
 
 ## ✍ Latest Blog Posts
 
