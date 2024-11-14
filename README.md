@@ -75,11 +75,11 @@ I'm a Frontend developer, developing websites people simply enjoy using. I'm als
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.2.0](https://github.com/dostonnabotov/quicksnip/releases/tag/v0.2.0) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
-2. 🚀 Published release [v0.1.0](https://github.com/dostonnabotov/quicksnip/releases/tag/v0.1.0) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
-3. 🚀 Published release [v1.0.0](https://github.com/dostonnabotov/easybank-next-gen/releases/tag/v1.0.0) in [dostonnabotov/easybank-next-gen](https://github.com/dostonnabotov/easybank-next-gen)
-4. 🗣 Commented on [#2](https://github.com/dostonnabotov/dostonnabotov/issues/2#issuecomment-2401950904) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
-5. 🔒 Closed issue [#2](https://github.com/dostonnabotov/dostonnabotov/issues/2) in [dostonnabotov/dostonnabotov](https://github.com/dostonnabotov/dostonnabotov)
+1. 🗣 Commented on [#5](https://github.com/dostonnabotov/direct-measurements-calculator/issues/5#issuecomment-2472274975) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+2. 🔒 Closed issue [#5](https://github.com/dostonnabotov/direct-measurements-calculator/issues/5) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+3. 🚀 Published release [v1.3.0](https://github.com/dostonnabotov/direct-measurements-calculator/releases/tag/v1.3.0) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+4. 🚀 Published release [v1.0.0](https://github.com/dostonnabotov/sass-template/releases/tag/v1.0.0) in [dostonnabotov/sass-template](https://github.com/dostonnabotov/sass-template)
+5. 🚀 Published release [v0.2.0](https://github.com/dostonnabotov/quicksnip/releases/tag/v0.2.0) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
 <!--END_SECTION:activity-->
 
 <br />
