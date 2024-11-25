@@ -75,11 +75,11 @@ I'm a Frontend developer, developing websites people simply enjoy using. I'm als
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v2.0.0](https://github.com/dostonnabotov/sass-template/releases/tag/v2.0.0) in [dostonnabotov/sass-template](https://github.com/dostonnabotov/sass-template)
-2. 🗣 Commented on [#4](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/pull/4#issuecomment-2482816012) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
-3. 🗣 Commented on [#5](https://github.com/dostonnabotov/direct-measurements-calculator/issues/5#issuecomment-2472274975) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
-4. 🔒 Closed issue [#5](https://github.com/dostonnabotov/direct-measurements-calculator/issues/5) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
-5. 🚀 Published release [v1.3.0](https://github.com/dostonnabotov/direct-measurements-calculator/releases/tag/v1.3.0) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+1. 🚀 Published release [v0.1.0](https://github.com/dostonnabotov/taskshell/releases/tag/v0.1.0) in [dostonnabotov/taskshell](https://github.com/dostonnabotov/taskshell)
+2. 🚀 Published release [v2.0.0](https://github.com/dostonnabotov/sass-template/releases/tag/v2.0.0) in [dostonnabotov/sass-template](https://github.com/dostonnabotov/sass-template)
+3. 🗣 Commented on [#4](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/pull/4#issuecomment-2482816012) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
+4. 🗣 Commented on [#5](https://github.com/dostonnabotov/direct-measurements-calculator/issues/5#issuecomment-2472274975) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
+5. 🔒 Closed issue [#5](https://github.com/dostonnabotov/direct-measurements-calculator/issues/5) in [dostonnabotov/direct-measurements-calculator](https://github.com/dostonnabotov/direct-measurements-calculator)
 <!--END_SECTION:activity-->
 
 <br />
