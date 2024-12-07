@@ -76,11 +76,11 @@ I'm a Frontend developer, developing websites people simply enjoy using. I'm als
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.2.0](https://github.com/dostonnabotov/taskshell/releases/tag/v0.2.0) in [dostonnabotov/taskshell](https://github.com/dostonnabotov/taskshell)
-2. 🚀 Published release [v2.1.0](https://github.com/dostonnabotov/sass-template/releases/tag/v2.1.0) in [dostonnabotov/sass-template](https://github.com/dostonnabotov/sass-template)
-3. 🚀 Published release [v0.1.0](https://github.com/dostonnabotov/taskshell/releases/tag/v0.1.0) in [dostonnabotov/taskshell](https://github.com/dostonnabotov/taskshell)
-4. 🚀 Published release [v2.0.0](https://github.com/dostonnabotov/sass-template/releases/tag/v2.0.0) in [dostonnabotov/sass-template](https://github.com/dostonnabotov/sass-template)
-5. 🗣 Commented on [#4](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01/pull/4#issuecomment-2482816012) in [itparkgalaosiyo/web-dasturlash_2024-01](https://github.com/itparkgalaosiyo/web-dasturlash_2024-01)
+1. 🚀 Published release [v0.3.0](https://github.com/dostonnabotov/quicksnip/releases/tag/v0.3.0) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
+2. 🚀 Published release [v0.2.0](https://github.com/dostonnabotov/taskshell/releases/tag/v0.2.0) in [dostonnabotov/taskshell](https://github.com/dostonnabotov/taskshell)
+3. 🚀 Published release [v2.1.0](https://github.com/dostonnabotov/sass-template/releases/tag/v2.1.0) in [dostonnabotov/sass-template](https://github.com/dostonnabotov/sass-template)
+4. 🚀 Published release [v0.1.0](https://github.com/dostonnabotov/taskshell/releases/tag/v0.1.0) in [dostonnabotov/taskshell](https://github.com/dostonnabotov/taskshell)
+5. 🚀 Published release [v2.0.0](https://github.com/dostonnabotov/sass-template/releases/tag/v2.0.0) in [dostonnabotov/sass-template](https://github.com/dostonnabotov/sass-template)
 <!--END_SECTION:activity-->
 
 <br />
