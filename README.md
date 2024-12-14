@@ -14,9 +14,9 @@ I'm a Frontend developer, developing websites people simply enjoy using. I'm als
 
 ### What I'm working on:
 
-#### [QuickSnip](https://quicksnip.netlify.app) - A library of code snippets for developers
-#### [TaskShell](https://taskshell.netlify.app) - A terminal-style to-do list for CLI enthusiasts.
-#### [Weather Scout](https://t.me/WeatherScoutBot) - A weather bot for Telegram
+#### [QuickSnip](https://github.com/dostonnabotov/quicksnip) - A library of code snippets for developers
+#### [TaskShell](https://github.com/dostonnabotov/taskshell) - A terminal-style to-do list for CLI enthusiasts.
+#### [Weather Scout](https://github.com/dostonnabotov/weather-scout) - A weather bot for Telegram
 
 <br />
 
