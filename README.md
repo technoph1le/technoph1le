@@ -76,11 +76,11 @@ I'm a Frontend developer, developing websites people simply enjoy using. I'm als
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.5.0](https://github.com/dostonnabotov/quicksnip/releases/tag/v0.5.0) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
-2. 🚀 Published release [v0.3.0](https://github.com/dostonnabotov/taskshell/releases/tag/v0.3.0) in [dostonnabotov/taskshell](https://github.com/dostonnabotov/taskshell)
-3. 🚀 Published release [v0.4.2](https://github.com/dostonnabotov/quicksnip/releases/tag/v0.4.2) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
-4. 🚀 Published release [v0.4.1](https://github.com/dostonnabotov/quicksnip/releases/tag/v0.4.1) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
-5. 🚀 Published release [v0.4.0](https://github.com/dostonnabotov/quicksnip/releases/tag/v0.4.0) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
+1. 🚀 Published release [v0.5.1](https://github.com/dostonnabotov/quicksnip/releases/tag/v0.5.1) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
+2. 🚀 Published release [v0.5.0](https://github.com/dostonnabotov/quicksnip/releases/tag/v0.5.0) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
+3. 🚀 Published release [v0.3.0](https://github.com/dostonnabotov/taskshell/releases/tag/v0.3.0) in [dostonnabotov/taskshell](https://github.com/dostonnabotov/taskshell)
+4. 🚀 Published release [v0.4.2](https://github.com/dostonnabotov/quicksnip/releases/tag/v0.4.2) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
+5. 🚀 Published release [v0.4.1](https://github.com/dostonnabotov/quicksnip/releases/tag/v0.4.1) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
 <!--END_SECTION:activity-->
 
 <br />
