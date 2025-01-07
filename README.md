@@ -75,11 +75,11 @@ I'm a Frontend developer, developing websites people simply enjoy using. I'm als
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#187](https://github.com/dostonnabotov/quicksnip/pull/187#issuecomment-2571595635) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
-2. 🗣 Commented on [#165](https://github.com/dostonnabotov/quicksnip/issues/165#issuecomment-2571251582) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
-3. ❗ Opened issue [#163](https://github.com/dostonnabotov/quicksnip/issues/163) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
-4. 🗣 Commented on [#159](https://github.com/dostonnabotov/quicksnip/pull/159#issuecomment-2569616664) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
-5. 🗣 Commented on [#159](https://github.com/dostonnabotov/quicksnip/pull/159#issuecomment-2569553163) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
+1. 🗣 Commented on [#122](https://github.com/dostonnabotov/quicksnip/issues/122#issuecomment-2573773806) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
+2. 🗣 Commented on [#202](https://github.com/dostonnabotov/quicksnip/issues/202#issuecomment-2573768877) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
+3. 🗣 Commented on [#187](https://github.com/dostonnabotov/quicksnip/pull/187#issuecomment-2571595635) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
+4. 🗣 Commented on [#165](https://github.com/dostonnabotov/quicksnip/issues/165#issuecomment-2571251582) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
+5. ❗ Opened issue [#163](https://github.com/dostonnabotov/quicksnip/issues/163) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
 <!--END_SECTION:activity-->
 
 <br />
