@@ -29,11 +29,11 @@ I'm a Frontend developer, developing websites people simply enjoy using. I'm als
 ## ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Journey of Managing My First Open Source](https://dev.to/technoph1le/the-journey-of-managing-my-first-open-source-1a7l)
 - [I built a library of code snippets for developers](https://dev.to/technoph1le/i-built-a-library-of-code-snippets-d66)
 - [I built a Sass template. You can just copy me!](https://dev.to/technoph1le/i-built-a-sass-template-you-can-just-copy-me-213o)
 - [The ONLY CSS Guide You Will Need](https://dev.to/technoph1le/the-only-css-guide-you-will-need-1mb7)
 - [I Found The CLEANEST Loading Animation EVER!](https://dev.to/technoph1le/i-found-the-cleanest-loading-animation-ever-4ln1)
-- [3 Tricks to Make Your Fonts Responsive](https://dev.to/technoph1le/3-methods-of-solving-un-responsive-fonts-w-css-414o)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
