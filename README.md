@@ -75,11 +75,11 @@ I'm a Frontend developer, developing websites people simply enjoy using. I'm als
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#224](https://github.com/dostonnabotov/quicksnip/issues/224#issuecomment-2583109272) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
-2. 🗣 Commented on [#222](https://github.com/dostonnabotov/quicksnip/issues/222#issuecomment-2582177114) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
-3. ❗ Opened issue [#222](https://github.com/dostonnabotov/quicksnip/issues/222) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
-4. 🗣 Commented on [#206](https://github.com/dostonnabotov/quicksnip/pull/206#issuecomment-2574962290) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
-5. 🗣 Commented on [#122](https://github.com/dostonnabotov/quicksnip/issues/122#issuecomment-2573773806) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
+1. 🗣 Commented on [#159](https://github.com/dostonnabotov/quicksnip/pull/159#issuecomment-2585940503) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
+2. 🔒 Closed issue [#222](https://github.com/dostonnabotov/quicksnip/issues/222) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
+3. 🎉 Merged PR [#231](https://github.com/dostonnabotov/quicksnip/pull/231) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
+4. 🗣 Commented on [#231](https://github.com/dostonnabotov/quicksnip/pull/231#issuecomment-2585899720) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
+5. 🗣 Commented on [#224](https://github.com/dostonnabotov/quicksnip/issues/224#issuecomment-2583109272) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
 <!--END_SECTION:activity-->
 
 <br />
