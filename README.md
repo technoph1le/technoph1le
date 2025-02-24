@@ -75,11 +75,11 @@ I'm a Frontend developer, developing websites people simply enjoy using. I'm als
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#261](https://github.com/technoph1le/quicksnip/issues/261) in [technoph1le/quicksnip](https://github.com/technoph1le/quicksnip)
-2. 🗣 Commented on [#253](https://github.com/dostonnabotov/quicksnip/issues/253#issuecomment-2646310820) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
-3. 🗣 Commented on [#253](https://github.com/dostonnabotov/quicksnip/issues/253#issuecomment-2645860339) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
-4. 🚀 Published release [v0.9.0](https://github.com/dostonnabotov/quicksnip/releases/tag/v0.9.0) in [dostonnabotov/quicksnip](https://github.com/dostonnabotov/quicksnip)
-5. 🗣 Commented on [#1](https://github.com/dostonnabotov/taskshell/issues/1#issuecomment-2644332824) in [dostonnabotov/taskshell](https://github.com/dostonnabotov/taskshell)
+1. 🗣 Commented on [#263](https://github.com/technoph1le/quicksnip/issues/263#issuecomment-2677240111) in [technoph1le/quicksnip](https://github.com/technoph1le/quicksnip)
+2. ❗ Opened issue [#263](https://github.com/technoph1le/quicksnip/issues/263) in [technoph1le/quicksnip](https://github.com/technoph1le/quicksnip)
+3. 🚀 Published release [v1.0.0](https://github.com/technoph1le/quicksnip/releases/tag/v1.0.0) in [technoph1le/quicksnip](https://github.com/technoph1le/quicksnip)
+4. 🎉 Merged PR [#240](https://github.com/technoph1le/quicksnip/pull/240) in [technoph1le/quicksnip](https://github.com/technoph1le/quicksnip)
+5. 🗣 Commented on [#240](https://github.com/technoph1le/quicksnip/pull/240#issuecomment-2677199825) in [technoph1le/quicksnip](https://github.com/technoph1le/quicksnip)
 <!--END_SECTION:activity-->
 
 <br />
