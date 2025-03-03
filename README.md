@@ -31,39 +31,6 @@ I'm a Frontend developer, developing projects people simply enjoy using. I'm als
 
 <br />
 
-## 🛠 Technical Skills
-
-### Frontend 
-
-<div style="display: flex; align-items: center; flex-wrap: wrap">
-  <img title="HTML5" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img title="CSS3" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img title="Sass" alt="Sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img title="TailWind CSS" alt="TailWind CSS" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
-  <img title="JavaScript" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img title="React" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img title="TypeScript" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</div>
-
-### Backend
-
-<div style="display: flex; align-items: center; flex-wrap: wrap">
-  <img title="React" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img title="TypeScript" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img title="NodeJS" alt="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img title="NextJS" alt="NextJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-</div>
-
-### Tools
-
-<div style="display: flex; align-items: center; flex-wrap: wrap">
-  <img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img title="Figma" alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img title="Linux" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
-
-<br />
-
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
@@ -77,38 +44,9 @@ I'm a Frontend developer, developing projects people simply enjoy using. I'm als
 
 <br />
 
-## 🔥 My Stats
+## 🪴 Some useful links
 
-<div style="display: flex; flex-wrap: wrap;">
-<picture>
-  <source 
-    srcset="http://github-readme-streak-stats.herokuapp.com?user=technoph1le&theme=dark&background=0d1117&border=30363d"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="http://github-readme-streak-stats.herokuapp.com?user=technoph1le&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=technoph1le&theme=default" />
-</picture>
+- [🖼️ My Wallpapers & Templates](https://payhip.com/technoph1le)
+- [📰 My Newsletter](https://technoph1le.substack.com/)
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats-xi2d.vercel.app/api?username=technoph1le&show_icons=true&theme=transparent&border_color=30363d&text_color=ecf3ff"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-xi2d.vercel.app/api?username=technoph1le&show_icons=true&theme=transparent"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-xi2d.vercel.app/api?username=technoph1le&show_icons=true&theme=transparent" />
-</picture>
-</div>
 
-<br>
-<br>
-
-<div align="center">
-  <p>Also, doing some LeetCode in free time</p>
-  <a href="https://leetcode.com/technoph1le/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftechnoph1le&logo=leetcode&logoColor=yellow" alt="LeetCode stats"></a>
-</div>
