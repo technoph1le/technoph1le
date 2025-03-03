@@ -49,4 +49,4 @@ I'm a Frontend developer, developing projects people simply enjoy using. I'm als
 - [🖼️ My Wallpapers & Templates](https://payhip.com/technoph1le)
 - [📰 My Newsletter](https://technoph1le.substack.com/)
 
-
+#### Check out some of my projects 👇
