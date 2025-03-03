@@ -1,16 +1,16 @@
-<h1 align="center">Hi, I'm <a href="https://dostonnabotov.com">Doston</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://dostonnabotov.com">Technophile</a> 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=31ABE1&center=true&width=435&lines=Frontend+Developer+;UI/UX+Designer+;Content+Creator+;and+Passionate+Learner!;Nice+to+meet+you..." alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dostonnabotov&color=blue&abbreviated=true" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=technoph1le&color=blue&abbreviated=true" alt="Profile views">
 </div>
 
 ## 👨‍💻 About Me
 
-I'm a Frontend developer, developing websites people simply enjoy using. I'm also on [YouTube](https://www.youtube.com/@technoph1le), definitely worth checking out!
+I'm a Frontend developer, developing projects people simply enjoy using. I'm also on [YouTube](https://www.youtube.com/@technoph1le), definitely worth checking out!
 
 ### What I'm working on:
 
@@ -18,13 +18,6 @@ I'm a Frontend developer, developing websites people simply enjoy using. I'm als
 #### [TaskShell](https://github.com/dostonnabotov/taskshell) - A terminal-style to-do list for CLI enthusiasts.
 
 <br />
-
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dostonnabotov)
-[![Portfolio](https://img.shields.io/badge/Portfolio-030607?style=for-the-badge&logo=google&logoColor=white)](https://dostonnabotov.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@technoph1le)
-[![DEV.TO](https://img.shields.io/badge/DEV.TO-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dostonnabotov)
--->
 
 ## ✍ Latest Blog Posts
 
@@ -89,26 +82,26 @@ I'm a Frontend developer, developing websites people simply enjoy using. I'm als
 <div style="display: flex; flex-wrap: wrap;">
 <picture>
   <source 
-    srcset="http://github-readme-streak-stats.herokuapp.com?user=dostonnabotov&theme=dark&background=0d1117&border=30363d"
+    srcset="http://github-readme-streak-stats.herokuapp.com?user=technoph1le&theme=dark&background=0d1117&border=30363d"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="http://github-readme-streak-stats.herokuapp.com?user=dostonnabotov&theme=default"
+    srcset="http://github-readme-streak-stats.herokuapp.com?user=technoph1le&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=dostonnabotov&theme=default" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=technoph1le&theme=default" />
 </picture>
 
 <picture>
   <source 
-    srcset="https://github-readme-stats-xi2d.vercel.app/api?username=dostonnabotov&show_icons=true&theme=transparent&border_color=30363d&text_color=ecf3ff"
+    srcset="https://github-readme-stats-xi2d.vercel.app/api?username=technoph1le&show_icons=true&theme=transparent&border_color=30363d&text_color=ecf3ff"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-xi2d.vercel.app/api?username=dostonnabotov&show_icons=true&theme=transparent"
+    srcset="https://github-readme-stats-xi2d.vercel.app/api?username=technoph1le&show_icons=true&theme=transparent"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-xi2d.vercel.app/api?username=dostonnabotov&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats-xi2d.vercel.app/api?username=technoph1le&show_icons=true&theme=transparent" />
 </picture>
 </div>
 
