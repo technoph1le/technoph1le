@@ -29,11 +29,11 @@ I'm a Frontend developer, developing websites people simply enjoy using. I'm als
 ## ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Killer Project Ideas for Developers in 2025](https://dev.to/technoph1le/5-killer-project-ideas-for-developers-in-2025-2m6l)
 - [We made QuickSnip even better &lpar;v1&rpar;](https://dev.to/technoph1le/we-made-quicksnip-even-better-v1-50lo)
 - [I Built a Game for My 1000 Subscribers](https://dev.to/technoph1le/i-built-a-game-for-my-1000-subscribers-4g77)
 - [What I learned managing my first open source](https://dev.to/technoph1le/the-journey-of-managing-my-first-open-source-1a7l)
 - [I built a library of code snippets for developers](https://dev.to/technoph1le/i-built-a-library-of-code-snippets-d66)
-- [I built a Sass template. You can just copy me!](https://dev.to/technoph1le/i-built-a-sass-template-you-can-just-copy-me-213o)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
