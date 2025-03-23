@@ -35,11 +35,11 @@ I'm a Frontend developer, developing projects people simply enjoy using. I'm als
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#268](https://github.com/technoph1le/quicksnip/pull/268) in [technoph1le/quicksnip](https://github.com/technoph1le/quicksnip)
-2. 🗣 Commented on [#266](https://github.com/technoph1le/quicksnip/pull/266#issuecomment-2716051489) in [technoph1le/quicksnip](https://github.com/technoph1le/quicksnip)
-3. 🗣 Commented on [#266](https://github.com/technoph1le/quicksnip/pull/266#issuecomment-2715458443) in [technoph1le/quicksnip](https://github.com/technoph1le/quicksnip)
-4. 🔒 Closed issue [#248](https://github.com/technoph1le/quicksnip/issues/248) in [technoph1le/quicksnip](https://github.com/technoph1le/quicksnip)
-5. 🗣 Commented on [#248](https://github.com/technoph1le/quicksnip/issues/248#issuecomment-2715370125) in [technoph1le/quicksnip](https://github.com/technoph1le/quicksnip)
+1. 🗣 Commented on [#268](https://github.com/technoph1le/quicksnip/pull/268#issuecomment-2745199585) in [technoph1le/quicksnip](https://github.com/technoph1le/quicksnip)
+2. 🔒 Closed issue [#267](https://github.com/technoph1le/quicksnip/issues/267) in [technoph1le/quicksnip](https://github.com/technoph1le/quicksnip)
+3. 🎉 Merged PR [#269](https://github.com/technoph1le/quicksnip/pull/269) in [technoph1le/quicksnip](https://github.com/technoph1le/quicksnip)
+4. 💪 Opened PR [#268](https://github.com/technoph1le/quicksnip/pull/268) in [technoph1le/quicksnip](https://github.com/technoph1le/quicksnip)
+5. 🗣 Commented on [#266](https://github.com/technoph1le/quicksnip/pull/266#issuecomment-2716051489) in [technoph1le/quicksnip](https://github.com/technoph1le/quicksnip)
 <!--END_SECTION:activity-->
 
 <br />
