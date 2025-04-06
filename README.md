@@ -1,12 +1,10 @@
 <h1 align="center">Hi, I'm <a href="https://dostonnabotov.com">Technophile</a> 👋</h1>
 
-<p align="center">I design & build projects. Also, make <a href="https://www.youtube.com/@technoph1le">YouTube</a> videos.</p>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=technoph1le&color=blue&abbreviated=true" alt="Profile views">
 </div>
 
-<br>
+I design & build projects. Also, make <a href="https://www.youtube.com/@technoph1le">YouTube</a> videos.
 
 **Skills/Languages**:
 
