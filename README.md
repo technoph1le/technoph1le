@@ -4,23 +4,27 @@
   <img src="https://komarev.com/ghpvc/?username=technoph1le&color=blue&abbreviated=true" alt="Profile views">
 </div>
 
+<br />
+
 I design & build projects. Also, make <a href="https://www.youtube.com/@technoph1le">YouTube</a> videos.
 
-**Skills/Languages**:
+### **Skills/Languages**:
 
-- Nothing :(
+- **Nothing :(**
 
-**Currently learning**:
+### **Currently learning**:
 
-- Everything :)
+- **Everything :)**
 
-**Working on**:
+### **Working on**:
 
-- Something xD
+- **Something xD**
 
-**Available for**:
+### **Available for**:
 
-- Anything o_0
+- **Anything o_0**
+
+<br />
 
 ## 🪴 Some useful links
 
