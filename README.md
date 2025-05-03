@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://dostonnabotov.com">Technophile</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://www.youtube.com/@technoph1le">Technophile</a> 👋</h1>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=technoph1le&color=blue&abbreviated=true" alt="Profile views">
