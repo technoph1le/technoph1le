@@ -6,25 +6,15 @@
 
 <br />
 
-I design & build projects. Also, make <a href="https://www.youtube.com/@technoph1le">YouTube</a> videos.
+I design and build projects. Also, make <a href="https://www.youtube.com/@technoph1le">YouTube</a> videos.
 
-### **Skills/Languages**:
+- **Skills/Languages**: Nothing :(
 
-- **Nothing :(**
+- **Currently learning**: Everything :)
 
-### **Currently learning**:
+- **Working on**: Something xD
 
-- **Everything :)**
-
-### **Working on**:
-
-- **Something xD**
-
-### **Available for**:
-
-- **Anything o_0**
-
-<br />
+- **Available for**: Anything o_0
 
 ## 🪴 Some useful links
 
