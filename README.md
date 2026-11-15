@@ -41,7 +41,7 @@ const technophile = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://quicksnip.dev">QuickSnip</a> &nbsp;<sub><code>open source</code> <code>live</code></sub></h3>
+      <h3><a href="https://quicksnip.vercel.app">QuickSnip</a> &nbsp;<sub><code>open source</code> <code>live</code></sub></h3>
       Find code snippets in seconds, across multiple languages.
       <br /><br />
       <code>377 ★ · 118 forks</code>
